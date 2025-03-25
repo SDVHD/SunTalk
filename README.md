@@ -62,7 +62,7 @@ npm run dev
 - **Backend**: Node.js, Express, UDP, WebSockets
 - **Audio**: Opus (via @discordjs/opus oder opusscript)
 - **Datenbank**: MongoDB
-- **Frontend**: Vue.js, Electron, Tailwind CSS
+- **Frontend**: Vue.js, Electron, Tailwind CSS, DaisyUI, Lucide
 
 ## 🛠️ API-Endpunkte (WIP)
 
